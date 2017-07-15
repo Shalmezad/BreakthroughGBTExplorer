@@ -1,3 +1,11 @@
+# Don't commit data/
+data/
 
 # Force download of filterbank
 gbtexplorer/filterbank/filterbank.py
+
+# https://github.com/github/gitignore/blob/master/Python.gitignore
+# Python generic ignores:
+__pycache__/
+*.py[cod]
+*$py.class
