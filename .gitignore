@@ -1,0 +1,3 @@
+
+# Force download of filterbank
+lib/filterbank/filterbank.py
